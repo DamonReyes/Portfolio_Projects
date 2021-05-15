@@ -23,7 +23,7 @@ Borramos las columnas que no necesitamos y eliminamos tambien los datos nulos po
 
 ![Image 6](https://github.com/DamonReyes/Routine_1/blob/main/Screenshots/Screenshot%20(17).png)
 
-ahora que ya terminamos el pre procesamiento y la preparacion de los datos lo exportamos en xlxs y vamos a analizarlo en Tableau.
+> ahora que ya terminamos el pre procesamiento y la preparacion de los datos lo exportamos en xlxs y vamos a analizarlo en Tableau.
 
 Comenzamos a hacer preguntas para descubrir los insights y lo primero que podemos preguntar es
 
@@ -41,6 +41,6 @@ dejo tambien el link original del dataviz [tabelau_routine1](https://public.tabl
 
 y puedes ver todas mis visualizaciones en [tableau_damonreyes](https://public.tableau.com/profile/damon.reyes#!/)
 
-Damon reyes analista
+> Damon reyes analista
 
 linkedin [linkedin damon](https://www.linkedin.com/in/damon-reyes/)
