@@ -1,4 +1,5 @@
 ## Empezando con la rutina basica de manejo de datos
+### En este Proyecto solo hago uso de Python y Tableau
 Empezando con la rutina básica de manejo de datos, lo primero que hago es cargar el dataset: revisar de que tipos de datos disponemos y hacer una copia para no trabajar sobre el original como buena practica. Convertimos la columna de fecha en un formato más simple.
 
 ![Image 1](https://github.com/DamonReyes/Routine_1/blob/main/Screenshots/Screenshot%20(11).png)
