@@ -55,8 +55,13 @@ select pelicula_id, titulo from peliculas
 y ya pasandolo a tableau las visualizaciones quedarian asi 
 ![Image 1](https://github.com/DamonReyes/Routine_1/blob/main/Screenshots/SQLP.png)
 
+
 dejo tambien el codigo original en formato de sql en esta misma carpeta
+
 Dejo también el link original del dataviz [Tableau Viz](https://public.tableau.com/profile/damon.reyes#!/vizhome/SQL_routine/Dashboard1)
+
 Y puedes ver todas mis visualizaciones en [Tableau_DamonReyes](https://public.tableau.com/profile/damon.reyes#!/vizhome/SQL_routine/Dashboard1)
+
 > Damon reyes analista
+
 Linkedin [Damon](https://www.linkedin.com/in/damon-reyes/)
