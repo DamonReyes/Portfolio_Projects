@@ -1,2 +1,3 @@
-this is the Visualization of the Titanic project.
+### this is the Visualization of the Titanic project.
+
 ![img1]()
