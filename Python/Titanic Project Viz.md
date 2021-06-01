@@ -1,4 +1,6 @@
-### this is the Visualization of the Titanic project.
+### This is the Visualization of the Titanic project.
+El proyecto se enfoca en la practica de habilidades
+#### Skills Tecnicos para este proyecto: Python(Pandas), Tableau
 
 ![Image 1](https://github.com/DamonReyes/Routine_1/blob/main/Screenshots/Titanic.png)
 
