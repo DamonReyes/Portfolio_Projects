@@ -46,7 +46,7 @@ Qué pais tiene mayor producción de agricultura?
 Qué país tiene la mayor tala de árboles y cómo aumenta la temperatura en dicho país?
 Entre otros y creamos el dashboard con los insights que encontramos! :D
 
-![Image 7](https://github.com/DamonReyes/Routine_1/blob/main/Screenshots/Dashboard 1.png)
+![Image 7](https://github.com/DamonReyes/Portfolio_Projects/blob/main/Screenshots/Dashboard%201.png)
 
 Dejo también el link original del dataviz [tabelau_routine1](https://public.tableau.com/profile/damon.reyes#!/vizhome/routine1/Dashboard1)
 
