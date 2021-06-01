@@ -5,9 +5,6 @@
 1. [pre processing](#introduction)
 2. [Visualization](#paragraph1)
 
-## This is the introduction <a name="introduction"></a>
-Some introduction text, formatted in heading 2 style
-
 
 
 
