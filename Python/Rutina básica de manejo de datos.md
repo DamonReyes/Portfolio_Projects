@@ -1,5 +1,6 @@
-## Empezando con la rutina basica de manejo de datos
-### Skills Tecnicos para este Proyecto:  Python(pandas), Tableau
+## Empezando con una rutina basica de manejo de datos
+En este proyecto lo que busco es compartir mis conocimientos y estoy orgulloso de mi avance al ver como puedo manejar una rutina de trabajo.
+### Skills Tecnicos para este Proyecto:  Python(pandas), Tableau.
 
 ## Table of contents
 1. [pre processing](#introduction)
