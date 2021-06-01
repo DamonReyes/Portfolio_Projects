@@ -1,6 +1,18 @@
 ## Empezando con la rutina basica de manejo de datos
 ### Skills Tecnicos para este Proyecto:  Python(pandas), Tableau
-Empezando con la rutina básica de manejo de datos, lo primero que hago es cargar el dataset: revisar de que tipos de datos disponemos y hacer una copia para no trabajar sobre el original como buena practica. Convertimos la columna de fecha en un formato más simple.
+
+## Table of contents
+1. [pre processing](#introduction)
+2. [Visualization](#paragraph1)
+
+## This is the introduction <a name="introduction"></a>
+Some introduction text, formatted in heading 2 style
+
+
+
+
+###### Empezando con la rutina básica de manejo de datos <a name="introduction"></a>
+lo primero que hago es cargar el dataset: revisar de que tipos de datos disponemos y hacer una copia para no trabajar sobre el original como buena practica. Convertimos la columna de fecha en un formato más simple.
 
 ![Image 1](https://github.com/DamonReyes/Routine_1/blob/main/Screenshots/Screenshot%20(11).png)
 
@@ -26,7 +38,7 @@ Borramos las columnas que no necesitamos y eliminamos tambien los datos nulos po
 
 > Ahora que ya terminamos el pre procesamiento y la preparación de los datos lo exportamos en xlxs y vamos a analizarlo en Tableau.
 
-Comenzamos a hacer preguntas para descubrir los insights y lo primero que podemos preguntar es
+Comenzamos a hacer preguntas para descubrir los insights y lo primero que podemos preguntar es: <a name="paragraph1"></a>
 
 Cuáles son los paises que más Co2 producen?
 En qué año los paises desecharon más Co2?
