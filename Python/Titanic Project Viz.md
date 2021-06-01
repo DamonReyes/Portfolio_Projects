@@ -4,6 +4,8 @@ El proyecto se enfoca en la practica de habilidades
 
 ![Image 1](https://github.com/DamonReyes/Routine_1/blob/main/Screenshots/Titanic.png)
 
+Dejo el codigo del Proyecto [titanic_py](https://github.com/DamonReyes/Portfolio_Projects/blob/main/Python/Titanic%20Project.ipynb)
+
 Dejo también el link original del dataviz [titanic](https://public.tableau.com/app/profile/damon.reyes/viz/TitanicProject_16223262808060/Dashboard1)
 
 Y puedes ver todas mis visualizaciones en [tableau_damonreyes](https://public.tableau.com/profile/damon.reyes#!/)
