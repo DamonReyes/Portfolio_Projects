@@ -2,7 +2,7 @@
 ### Skills tecnicos en este proyecto: SQL, Excel, Tableau
 
 ## Table of contents
-1. [pre processing](#introduction)
+1. [SQL Views](#introduction)
 2. [Visualization](#paragraph1)
 
 vamos a prepara unas visualizaciones desde PostgreSQL <a name="introduction"></a>
