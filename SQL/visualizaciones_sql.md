@@ -1,7 +1,7 @@
 # Views for Visualization 
 ### Skills tecnicos en este proyecto: SQL, Excel, Tableau
 
-vamos a prepara unas visualizaciones solo para pasarlas a tableau, esta vez desde PostgreSQL
+vamos a prepara unas visualizaciones desde PostgreSQL
 ```sql
 --- lets create a top 10 most rented movies
 select peliculas.pelicula_id as id, peliculas.titulo, count(*) as numero_rentas
@@ -52,8 +52,8 @@ order by anio, mes;
 ---names of the movies
 select pelicula_id, titulo from peliculas
 ```
-y ya pasandolo a tableau las visualizaciones quedarian asi 
-![Image 1](https://github.com/DamonReyes/Routine_1/blob/main/Screenshots/SQLP.png)
+ya pasando a tableau las visualizaciones quedarian asi 
+![Image 1](https://github.com/DamonReyes/Portfolio_Projects/blob/main/Screenshots/Dashboard%201%20(1).png)
 
 
 dejo tambien el codigo original en formato de sql en esta misma carpeta
