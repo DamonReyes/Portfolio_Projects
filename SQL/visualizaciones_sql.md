@@ -1,7 +1,11 @@
 # Views for Visualization 
 ### Skills tecnicos en este proyecto: SQL, Excel, Tableau
 
-vamos a prepara unas visualizaciones desde PostgreSQL
+## Table of contents
+1. [pre processing](#introduction)
+2. [Visualization](#paragraph1)
+
+vamos a prepara unas visualizaciones desde PostgreSQL <a name="introduction"></a>
 ```sql
 --- lets create a top 10 most rented movies
 select peliculas.pelicula_id as id, peliculas.titulo, count(*) as numero_rentas
@@ -52,7 +56,7 @@ order by anio, mes;
 ---names of the movies
 select pelicula_id, titulo from peliculas
 ```
-ya pasando a tableau las visualizaciones quedarian asi 
+ya pasando a tableau las visualizaciones quedarian asi <a name="paragraph1"></a>
 ![Image 1](https://github.com/DamonReyes/Portfolio_Projects/blob/main/Screenshots/Dashboard%201%20(1).png)
 
 
