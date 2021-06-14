@@ -1,7 +1,7 @@
 ### This is the Visualization of the Marketing Analytics.
 #### Skills Tecnicos para este proyecto: Python(Pandas), Tableau
 
-![Image 1](https://github.com/DamonReyes/Routine_1/blob/main/Screenshots/Dashboard 1.png)
+![Image 1](https://github.com/DamonReyes/Portfolio_Projects/blob/main/Screenshots/Dashboard%201.png)
 
 Dejo el codigo del Proyecto [MA](https://github.com/DamonReyes/Portfolio_Projects/blob/main/Python/Marketing%20Analytics%20Project.ipynb)
 
